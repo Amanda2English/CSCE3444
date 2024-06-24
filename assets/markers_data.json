@@ -1,0 +1,30 @@
+[
+    {
+      "id": "Union Building",
+      "position": {"latitude": 33.21075, "longitude": -97.14727},
+      "title": "PLACEHOLDER TEXT",
+      "iconPath": "assets/images/vending_machine.png",
+      "type": "vending machine"
+    },
+    {
+      "id": "Discovery Park",
+      "position": {"latitude": 33.25391, "longitude": -97.15259},
+      "title": "PLACEHOLDER TEXT",
+      "iconPath": "assets/images/charging_station.png",
+      "type": "charging station"
+    },
+    {
+      "id": "Frisco Landing",
+      "position": {"latitude": 33.18574, "longitude": -96.80542},
+      "title": "PLACEHOLDER TEXT",
+      "iconPath": "assets/images/microwave.png",
+      "type": "microwave"
+    },
+    {
+      "id": "Willis Library - Main Campus",
+      "position": {"latitude": 33.21015, "longitude": -97.14896},
+      "title": "PLACEHOLDER TEXT",
+      "iconPath": "assets/images/vending_machine.png",
+      "type": "vending machine"
+    }
+  ]
